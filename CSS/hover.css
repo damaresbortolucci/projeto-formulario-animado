@@ -1,0 +1,14 @@
+.hvr-text:hover{
+    color: white;
+}
+
+.bk-btn:hover{
+    background-color: white;
+    color: rosybrown;
+    font-weight: bold;
+}
+
+.input-bk:hover{
+    background-color: rosybrown;
+    border-radius: 5px;
+}
